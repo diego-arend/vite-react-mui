@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "kamikillerto.vscode-colorize",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "firsttris.vscode-jest-runner",
+    "esbenp.prettier-vscode",
+    "vscode-icons-team.vscode-icons",
+    "redhat.vscode-yaml",
+    "meezilla.json"
+  ]
+}
