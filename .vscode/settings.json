@@ -1,3 +1,24 @@
 {
-  "prettier.configPath": "./.prettierrc.cjs"
+  "prettier.configPath": "./.prettierrc.cjs",
+  "colorize.languages": [
+    "css",
+    "sass",
+    "scss",
+    "less",
+    "postcss",
+    "sss",
+    "stylus",
+    "xml",
+    "svg",
+    "js",
+    "jsx"
+  ],
+  "colorize.colorized_colors": [
+    "HEXA",
+    "BROWSERS_COLORS",
+    "HEXA",
+    "RGB",
+    "HSL"
+  ],
+  "colorize.colorized_variables": ["LESS"]
 }

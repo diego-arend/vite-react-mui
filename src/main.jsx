@@ -1,11 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { CssBaseline } from '@mui/material';
-import App from './pages/unauthenticated/singin/App';
+import SingIn from './pages/unauthenticated/singin/SingIn';
+import ThemeCustomProvider from './contexts/theme/ThemeCustomProvider';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <CssBaseline />
-    <App />
+    <ThemeCustomProvider>
+      <SingIn />
+    </ThemeCustomProvider>
   </React.StrictMode>,
 );

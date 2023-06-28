@@ -1,6 +1,5 @@
 {
   "recommendations": [
-    "kamikillerto.vscode-colorize",
     "editorconfig.editorconfig",
     "dbaeumer.vscode-eslint",
     "firsttris.vscode-jest-runner",
